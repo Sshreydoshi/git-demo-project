@@ -6,3 +6,4 @@ efg
 hij
 klm --push
 nop --pull
+qrs --push master
